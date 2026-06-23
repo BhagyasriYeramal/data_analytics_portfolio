@@ -56,14 +56,7 @@ Sample sales dataset containing:
 - 5 Employees
 - 5 Products
 - 17 Orders (2024 + 2025 combined)
----
 
-## Dataset
-Sample sales dataset containing:
-- 5 Customers
-- 5 Employees
-- 5 Products
-- 17 Orders (2024 + 2025 combined)
 
 **Source:** Sample dataset from "The Complete SQL 
 Bootcamp" course by Baraa Khatib Salkini (Udemy).
