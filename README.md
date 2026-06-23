@@ -58,7 +58,8 @@ Sample sales dataset containing:
 - 17 Orders (2024 + 2025 combined)
 
 
-**Source:** Sample dataset from "The Complete SQL 
-Bootcamp" course by Baraa Khatib Salkini (Udemy).
-Used for learning and practice across SQL, 
-Excel and Power BI.
+**Source:** Dataset from "The Complete SQL Bootcamp" 
+course by Baraa Khatib Salkini (Udemy). 
+All analysis, queries, Excel work and Power BI 
+dashboard were independently built by me using 
+this dataset for learning and practice.
